@@ -1,5 +1,5 @@
 /**
- * ¿ÏÀüÅ½»ö/¸ğÀÇ°í»ç
+ * ì™„ì „íƒìƒ‰ - ëª¨ì˜ê³ ì‚¬
  */
 package week2;
 
@@ -29,7 +29,7 @@ public class Programmers42840 {
 			}
 		}
 		
-		int[] answer = list.stream().mapToInt(Integer::intValue).toArray(); //ArrayList¸¦ array¹è¿­·Î ¹Ù²ãÁÖ±â!!
+		int[] answer = list.stream().mapToInt(Integer::intValue).toArray(); //ArrayListë¥¼ arrayë°°ì—´ë¡œ ë°”ê¿”ì£¼ê¸°!!
 
 		return answer;
 	}
