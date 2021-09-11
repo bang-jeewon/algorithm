@@ -1,5 +1,5 @@
 /**
- * Áø¹ıº¯È¯ - Áø¹ıº¯È¯
+ * ì§„ë²•ë³€í™˜ - ì§„ë²•ë³€í™˜
  */
 package week4;
 
@@ -23,7 +23,7 @@ public class Baekjoon2745 {
 	
 	public static int conversion(String n, int b) {
 		
-		char[] digits = n.toCharArray(); //¼ıÀÚ ÀÚ¸´°ª ¹è¿­
+		char[] digits = n.toCharArray(); //ìˆ«ì ìë¦¿ê°’ ë°°ì—´
 		
 		int number = 0;
 		
