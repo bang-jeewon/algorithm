@@ -1,3 +1,6 @@
+/**
+ * 동적계획법 - 정수삼각형
+ */
 package week7;
 
 public class Programmers43105 {
